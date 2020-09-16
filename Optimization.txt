@@ -1,6 +1,6 @@
 1. Optimize the time calculation in member and log.
     * If the time passes 5 min then we need to return false with out any calc (not first time, but all the time after that)
 
-
+Yibmk4@HzPRSi7z
 2. Optimize the total price of a member
 
